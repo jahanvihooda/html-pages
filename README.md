@@ -5,5 +5,5 @@ Jahanvi Hooda
 
 ### What is this repository for? ###
 
-Wordpress pages created using html, links have been removed.
+Wordpress pages created using html; links have been removed.
 Use of headers, tables, lists, divs, classes and ids.
